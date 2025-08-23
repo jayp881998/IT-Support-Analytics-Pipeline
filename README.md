@@ -1,4 +1,4 @@
-Automated Helpdesk Reporting Pipeline | SmartHelp Inc.
+Zendesk Helpdesk Analytics Pipeline (NDA‑Safe Case Study)
 
 Disclaimer: This is a demo version of a real-world project developed for portfolio purposes only. All data has been anonymized and sanitized. Screenshots of dashboards and scripts are used purely for demonstration.
 
