@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Project Overview
-During my internship at a healthcare organization (NDA-protected), I led the development of an **end-to-end analytics pipeline** that automated reporting for the helpdesk department.
+During my internship at a Medical Institute, I led the development of an **end-to-end analytics pipeline** that automated reporting for the helpdesk department.
 
 Previously, the team relied on **manual exports from Zendesk** and static PowerPoint updates, which delayed reporting cycles, introduced inconsistencies, and limited historical tracking.
 
