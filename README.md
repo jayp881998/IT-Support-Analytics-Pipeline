@@ -43,10 +43,8 @@ The helpdesk team relied on manual exports from Zendesk and static PowerPoint up
 **Quantified Results:**
 - ✅ **90% reduction in manual effort** → reporting time cut from 20 hrs → 2 hrs per week.
 - ✅ **45-minute refresh cycles** replaced weekly manual reporting.
-- ✅ **15+ stakeholders** gained self-service access to live, consistent KPIs.
 - ✅ **5 automated dashboards**: Executive, Operations, Agent Performance, Efficiency, Analytics.
 - ✅ **100% data accuracy** → eliminated manual transcription errors.
-- ✅ **$50K+ annual time savings** in operational efficiency.
 
 **Operational Improvements:**
 - Executives made faster, **data-driven decisions**.
@@ -150,10 +148,6 @@ Power BI (dashboards for executives, operations, agents)
 **Visualization**
 - Power BI: Power Query (M Code), DAX, drilldowns, slicers, KPIs
 
-**Other**
-- Version Control: GitHub for code + docs
-- Documentation: ERD, flow diagrams (draw.io / Figma)
-
 ---
 
 ## 📂 Repository Structure & Privacy Note
@@ -204,9 +198,9 @@ This project reflects my passion for turning **raw data into actionable business
 
 **Contact Information:**
 - 🌐 Portfolio: *[your-portfolio.com]*
-- 💼 LinkedIn: *[linkedin.com/in/yourprofile]*
-- 📧 Email: *[your.email@domain.com]*
-- 🐙 GitHub: *[github.com/yourusername]*
+- 💼 LinkedIn: *https://www.linkedin.com/in/jaypanchal0808/*
+- 📧 Email: *panchaljay0808@gmail.com*
+- 🐙 GitHub: *https://github.com/jayp881998*
 
 ⭐ *Star this repository if you found it helpful!*
 
