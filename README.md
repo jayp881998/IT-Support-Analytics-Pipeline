@@ -108,7 +108,6 @@ Power BI (dashboards for executives, operations, agents)
 - **Performance:** UPSERT logic and star schema optimized BI queries.
 - **Usability:** Power BI dashboards delivered actionable KPIs for stakeholders.
 
-*(Placeholder: add `docs/architecture.png` for diagram)*
 
 ---
 
@@ -127,8 +126,6 @@ Power BI (dashboards for executives, operations, agents)
 - Reopen Rate (quality signal)
 - Agent Productivity (assigned vs. closed, trends)
 - Channel Mix (email, web, chat performance)
-
-*(Placeholder: add screenshots under `powerbi/screenshots/`)*
 
 ---
 
