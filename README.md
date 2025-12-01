@@ -188,7 +188,7 @@ helpdesk-analytics-pipeline/
 This project reflects my passion for turning **raw data into actionable business insights**. I specialize in building end-to-end solutions that deliver measurable value.
 
 **Looking For:**
-- Data Engineer roles (ETL pipelines, data architecture)
+- Data Analyst roles (ETL pipelines, data analysis)
 - Business Intelligence roles (dashboard development, analytics)
 - Analytics Engineer roles (technical + business blend)
 - Data Analyst roles with technical development focus
